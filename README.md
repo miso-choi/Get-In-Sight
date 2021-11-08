@@ -23,4 +23,15 @@
 - [SVR](https://github.com/miso-choi/Get-In-Sight/blob/master/model/Regressor_svr.ipynb)  
   
 ➡ 위 4가지 모델의 예측결과를 가중평균하여 반환
-  - [VotingRegressor](https://github.com/miso-choi/Get-In-Sight/blob/master/model/Ensemble.ipynb)
+  - [VotingRegressor](https://github.com/miso-choi/Get-In-Sight/blob/master/model/Ensemble.ipynb)  
+
+
+
+
+***** 
+
+### Contributors
+|  [곽규나](https://github.com/Gyunakwak)  |  [최미소](https://github.com/miso-choi)  |  [하유빈](https://github.com/youbin01)  |
+| ---- | ---- | ---- |
+| <img src="https://user-images.githubusercontent.com/78155086/140711387-409d8ea7-92d7-4cd6-8c1b-431fb622886e.png" width="120px" height="120px"> | <img src="https://user-images.githubusercontent.com/78155086/140712068-0b9f67ba-d7cd-4855-84ab-b2b4c331fec2.jpeg" width="120px" height="120px"> | <img src="https://user-images.githubusercontent.com/78155086/140712252-37fab956-f609-436e-a23c-dab81d7d0d3d.png" width="120px" height="120px"> |
+
